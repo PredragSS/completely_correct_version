@@ -1,2 +1,0 @@
-What you need to read:Course(0,6) Lab(-4,-1)
-Extensions:c,cpp
