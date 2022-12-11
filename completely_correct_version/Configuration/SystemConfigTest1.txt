@@ -1,0 +1,2 @@
+Form of assignmnets name:CourseCode(0,6)|Lab(6,10)
+Extensions:c,cpp
